@@ -1,5 +1,6 @@
 name: Release
 on:
+  workflow_dispatch: {}
   push:
     branches:
       - main
@@ -15,6 +16,7 @@ jobs:
         with:
           release-type: ruby
           package-name: man_eb_deployer
+          version-file: lib/eb_deployer/version.rb
       - uses: actions/checkout@v4
       - name: publish to rubygems
         if: ${{ steps.release.outputs.release_created }}
