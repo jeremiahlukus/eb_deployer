@@ -1,3 +1,19 @@
+# Changelog
+
+## [0.8.0](https://github.com/manheim/eb_deployer/compare/v0.7.0...v0.8.0) (2023-10-17)
+
+
+### Features
+
+* explain fork transition in readme ([0ce9bbe](https://github.com/manheim/eb_deployer/commit/0ce9bbe1b905d3fadb749365b5e7fd7042f09fe7))
+
+
+### Bug Fixes
+
+* correct default branch ([f262778](https://github.com/manheim/eb_deployer/commit/f262778163b30f3e896af250561e80c96316404b))
+* update gitignore file ([15cabbb](https://github.com/manheim/eb_deployer/commit/15cabbb7d1bb64cc7d3e98e66ff245b3d0626e10))
+* update ruby version and simplify dependency management ([5b69e7e](https://github.com/manheim/eb_deployer/commit/5b69e7ede3b436df75e9ab94bae3d7f5308ea204))
+
 0.7.0
 =====
 
