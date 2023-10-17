@@ -1,4 +1,6 @@
-# EbDeployer [![Build Status](https://snap-ci.com/ThoughtWorksStudios/eb_deployer/branch/master/build_image)](https://snap-ci.com/ThoughtWorksStudios/eb_deployer/branch/master) [![Build Status](https://travis-ci.org/ThoughtWorksStudios/eb_deployer.png?branch=master)](https://travis-ci.org/ThoughtWorksStudios/eb_deployer) [![Gem Version](https://badge.fury.io/rb/eb_deployer.svg)](http://badge.fury.io/rb/eb_deployer) [![Dependency Status](https://www.versioneye.com/ruby/eb_deployer/0.6.1/badge.svg)](https://www.versioneye.com/ruby/eb_deployer/0.6.1)
+# EbDeployer ![Tests](https://github.com/manheim/eb_deployer/actions/workflows/test.yml/badge.svg) [![Gem Version](https://badge.fury.io/rb/eb_deployer.svg)](http://badge.fury.io/rb/eb_deployer) [![Dependency Status](https://www.versioneye.com/ruby/eb_deployer/0.6.1/badge.svg)](https://www.versioneye.com/ruby/eb_deployer/0.6.1)
+
+Fork maintained by Manheim to upgrade Ruby version and dependencies.
 
 [Built with :yellow_heart: and :coffee: in San Francisco](http://www.thoughtworks.com/mingle/team/)
 
