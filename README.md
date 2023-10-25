@@ -1,4 +1,4 @@
-# EbDeployer [![Tests](https://github.com/manheim/eb_deployer/actions/workflows/test.yml/badge.svg)](https://github.com/manheim/eb_deployer/actions/workflows/test.yml) [![Gem Version](https://badge.fury.io/rb/man_eb_deployer.svg)](http://badge.fury.io/rb/man_eb_deployer)
+# EbDeployer [![Tests](https://github.com/manheim/eb_deployer/actions/workflows/test.yml/badge.svg)](https://github.com/manheim/eb_deployer/actions/workflows/test.yml) [![Gem Version](https://badge.fury.io/rb/man_eb_deployer.svg)](https://badge.fury.io/rb/man_eb_deployer)
 
 *Fork being maintained by Manheim to upgrade Ruby, dependencies, and other critical fixes.*
 
