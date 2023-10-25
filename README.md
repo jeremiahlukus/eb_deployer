@@ -1,6 +1,8 @@
-# EbDeployer ![Tests](https://github.com/manheim/eb_deployer/actions/workflows/test.yml/badge.svg) [![Gem Version](https://badge.fury.io/rb/eb_deployer.svg)](http://badge.fury.io/rb/eb_deployer) [![Dependency Status](https://www.versioneye.com/ruby/eb_deployer/0.6.1/badge.svg)](https://www.versioneye.com/ruby/eb_deployer/0.6.1)
+# EbDeployer [![Tests](https://github.com/manheim/eb_deployer/actions/workflows/test.yml/badge.svg)](https://github.com/manheim/eb_deployer/actions/workflows/test.yml) [![Gem Version](https://badge.fury.io/rb/man_eb_deployer.svg)](http://badge.fury.io/rb/man_eb_deployer)
 
-Fork maintained by Manheim to upgrade Ruby version and dependencies.
+*Fork being maintained by Manheim to upgrade Ruby, dependencies, and other critical fixes.*
+
+----
 
 [Built with :yellow_heart: and :coffee: in San Francisco](http://www.thoughtworks.com/mingle/team/)
 
@@ -10,7 +12,7 @@ Low friction deployments should be a breeze. Elastic Beanstalk provides a great 
 
 ## Installation
 
-    $ gem install eb_deployer
+    $ gem install man_eb_deployer
 
 ## Usage
 
