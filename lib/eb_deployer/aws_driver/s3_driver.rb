@@ -14,13 +14,16 @@ module EbDeployer
       end
 
       def upload_file(bucket_name, obj_name, file)
-        o = obj(bucket_name, obj_name)
-        o.upload_file(file)
+        transfer_manager.upload_file(file, bucket_name, obj_name)
       end
 
       private
       def s3
         Aws::S3::Resource.new(client: Aws::S3::Client.new)
+      end
+
+      def transfer_manager
+        @transfer_manager ||= Aws::S3::TransferManager.new(client: Aws::S3::Client.new)
       end
 
       def obj(bucket_name, obj_name)
