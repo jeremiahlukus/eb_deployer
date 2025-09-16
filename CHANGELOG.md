@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.8.1] (2025-09-16)
+
+### Bug Fixes
+
+* Fix deprecation warning for Aws::S3::Object#upload_file by replacing with Aws::S3::TransferManager#upload_file
+
 ## [0.8.0](https://github.com/manheim/eb_deployer/compare/v0.7.0...v0.8.0) (2023-10-17)
 
 
